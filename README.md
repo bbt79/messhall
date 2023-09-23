@@ -3,7 +3,7 @@
 
 ## Description
 
-_messhall is a simple website built with Markdown, designed specifically for storing and sharing food recipes. Whether you're a seasoned chef or just getting started in the culinary world, messhall is the perfect place to organize and showcase your favorite recipes. From mouthwatering main courses to delectable desserts, this repository is a treasure trove of culinary creations.
+_messhall_ is a simple website built with Markdown, designed specifically for storing and sharing food recipes. Whether you're a seasoned chef or just getting started in the culinary world, messhall is the perfect place to organize and showcase your favorite recipes. From mouthwatering main courses to delectable desserts, this repository is a treasure trove of culinary creations.
 
 ## Features
 
