@@ -1,5 +1,5 @@
 
-# Welcome to messhall!
+# Welcome to the Messhall!
 
 ## Description
 
